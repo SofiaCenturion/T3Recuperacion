@@ -1,0 +1,4 @@
+Disco: Rock
+Nombre: The black Album
+Grupo: Metallica
+Año: 1990
