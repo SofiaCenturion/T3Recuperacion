@@ -1,0 +1,4 @@
+Disco:
+Nombre:
+Grupo:
+año
